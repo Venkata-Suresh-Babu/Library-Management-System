@@ -1,0 +1,13 @@
+Project: Library Management System
+
+Description: Developed a Python-based library management system using Object-Oriented Programming (OOP) principles.
+
+Features:
+Created a Book class to manage book details (title, author, genre, availability).
+Implemented a Library class for adding, searching, borrowing, and returning books.
+Designed a user-friendly command-line interface (CLI) for interaction.
+
+Skills Demonstrated:
+OOP concepts (classes, methods, encapsulation)
+User input handling
+Data management
